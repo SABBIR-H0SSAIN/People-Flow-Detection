@@ -29,14 +29,16 @@ heatmap visualization.
 | File | Description |
 |------|-------------|
 | `output/people-walking-detection.mp4` | Annotated video with tracking overlays |
+| `output/demo.gif` | Full-length animated preview of tracking & counting |
 | `output/people-walking-heatmap.png` | Density heatmap of pedestrian traffic |
 
 ## Demo
 
-### Detection Video
+### Detection & Line Crossing Tracking
 
-<video src="output/people-walking-detection.mp4" controls width="100%"></video>
+![People Flow Detection Demo](output/demo.gif)
 
 ### Heatmap
 
 ![People Flow Heatmap](output/people-walking-heatmap.png)
+
