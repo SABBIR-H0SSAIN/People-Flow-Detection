@@ -30,3 +30,13 @@ heatmap visualization.
 |------|-------------|
 | `output/people-walking-detection.mp4` | Annotated video with tracking overlays |
 | `output/people-walking-heatmap.png` | Density heatmap of pedestrian traffic |
+
+## Demo
+
+### Detection Video
+
+<video src="output/people-walking-detection.mp4" controls width="100%"></video>
+
+### Heatmap
+
+![People Flow Heatmap](output/people-walking-heatmap.png)
